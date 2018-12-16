@@ -1,0 +1,20 @@
+import(MASS)
+
+importFrom("stats","anova","pf","qf","qt")
+
+export(basis,
+  binaries,
+  cisimult,
+  cisngl,
+  compbasis,
+  confelps,
+  frob,
+  ganova,
+  hanova,
+  hypsplit,
+  intsectbasis,
+  is.included,
+  multcomp,
+  proj,
+  supplbasis,
+  tr)
