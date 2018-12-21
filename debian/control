@@ -1,0 +1,22 @@
+Source: lmreg
+Section: gnu-r
+Priority: optional
+Maintainer: cran2deb4ubuntu <cran2deb4ubuntu@gmail.com>
+Build-Depends: r-cran-mass, r-base-dev, xvfb, xauth, xfonts-base,
+ r-base-core, debhelper (>> 4.1.0), cdbs
+Standards-Version: 3.9.1
+
+Package: r-cran-lmreg
+Architecture: all
+Depends: r-cran-mass, r-base-core
+Description: GNU R package "Data and Functions Used in Linear Models
+ and Regression with R: An Integrated Approach"
+ .
+ Data files and a few functions used in the book 'Linear Models and
+ Regression with R: An Integrated Approach' by Debasis Sengupta and
+ Sreenivas Rao Jammalamadaka (2019).
+ .
+ Author: Debasis Sengupta <shairiksengupta@gmail.com>, S. Rao
+ Jammalamadaka <rao@gmail.com>, Jinwen Qiu <qjwsnow_ctw@hotmail.com>
+ .
+ Maintainer: Jinwen Qiu <qjwsnow_ctw@hotmail.com>

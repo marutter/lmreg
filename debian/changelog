@@ -1,0 +1,7 @@
+lmreg (1.0-1cran1) testing; urgency=low
+
+  * cran2deb svn: 362M with DB version 1.
+
+ -- cran2deb4ubuntu <cran2deb4ubuntu@gmail.com>  Fri, 21 Dec 2018 09:12:14 -0500
+
+
